@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-6 sm:px-12">
         <h1 className="text-4xl sm:text-6xl font-extrabold mb-4 animate-fadeIn">
-          "Plant Today, <br /> Protect Tomorrow"
+          &quot;Plant Today, <br /> Protect Tomorrow&quot;
         </h1>
         <p className="text-lg sm:text-2xl mb-8 animate-slideIn">
           Join our mission to grow a greener, healthier planet. Together, we can create a sustainable future.

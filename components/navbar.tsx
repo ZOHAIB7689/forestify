@@ -64,7 +64,7 @@ const Navbar: React.FC = () => {
             {['About', 'Initiatives', 'Events', 'Contact'].map((item) => (
               <a
                 key={item}
-                href={`#${item.toLowerCase()}`}
+                href={`/${item.toLowerCase()}`}
                 className="block text-lg font-medium text-gray-300 hover:text-lime-500 transition-all duration-300 underline-offset-4 hover:underline"
               >
                 {item}

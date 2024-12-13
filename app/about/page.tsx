@@ -3,7 +3,7 @@ import React from "react";
 
 const About = () => {
   const stats = [
-    { label: "Trees Planted", value: "5,000+" },
+    { label: "Trees Planted", value: "100,000+" },
     { label: "Eco-Warriors", value: "10,000+" },
     { label: "CO₂ Reduced (tons)", value: "20+" },
   ];
